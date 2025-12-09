@@ -12,7 +12,7 @@ const wordList = [
     'responsive', 'array', 'object', 'string', 'loop',
     'class', 'method', 'server', 'client', 'framework','yappnika'
 ];
-
+ 
 let score = 0;
 let timer = 60;
 let wordsTyped = 0;

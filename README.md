@@ -7,7 +7,7 @@ Randomly generated coding-related words appear on screen, and you must type them
 As words fall from the top, your goal is simple — type fast, stay focused, and don’t let too many words pile up!  
 When the game ends, you can view a detailed summary of your stats including speed, accuracy, and final score.
 
-## ✨ Notable Features
+## ✨ Notable Features 
 - **Random Word Generation:** Enjoy fresh challenges every session.  
 - **Collision Detection:** Words interact dynamically on-screen.  
 - **Word Death Animations:** Delightful visual effects when words are cleared.  
